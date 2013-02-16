@@ -1,0 +1,18 @@
+nome,email,curso,numero-de-aluno,universidade,curso-1,filiacao-empresa,jantar-da-conferencia,almocos-no-restaurante-panoramico,porque-se-inscreveu-nas-join,outro-1,dt
+Joaquim da Silva Pereira,joaq_per@netcabo.pt,LCC,23180,,,,0,0,"['Procura projecto/disserta\xc3\xa7\xc3\xa3o de mestrado', 'Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas']",,2009/08/26 13:59:04.993 GMT+1
+Francisco Pacheco Vieira, fpv@gmail.com,LEI,a41836,,,,0,0,"['Procura 1\xc2\xba emprego', 'Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas']",,2009/08/26 21:40:35.611 GMT+1
+Miguel Lopes Costa,costa.miguel@gmail.com,LEI,40626,,,,0,0,"['Procura 1\xc2\xba emprego', 'Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas']",,2009/08/27 18:17:44.077 GMT+1
+João Costa, joaomcc@gmail.com,LCC,a41039,,,,0,0,"['Procura 1\xc2\xba emprego', 'Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas']",,2009/08/28 02:01:44.318 GMT+1
+Alberto Silva e Sá,setezore@gmail.com,MEI,12251,,,,0,0,['Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas'],,2009/08/28 15:38:07.065 GMT+1
+João Teixeira,joteixe@alunos.uminho.pt,LEI,42050,,,,0,0,['Procura 1\xc2\xba emprego'],,2009/08/28 15:56:23.495 GMT+1
+João Teixeira,joteixe@alunos.uminho.pt,LEI,42050,,,,0,0,['Procura 1\xc2\xba emprego'],,2009/08/28 15:57:30.053 GMT+1
+Freitas Marques, freitasm@gmail.com,LEI,47140,Universidade do Minho,,,0,0,['Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas'],,2009/08/28 16:04:47.952 GMT+1
+João Fernando Albertino Veiga, tino.veiga@gmail.com,MEI,pg1225,,,,0,0,['Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas'],,2009/08/28 16:20:18.569 GMT+1
+Paulo Pereira,pper@gmail.com,MI,11252,,,,0,0,"['Procura 1\xc2\xba emprego', 'Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas']",,2009/08/28 16:28:21.331 GMT+1
+Nuno Cadete,lncadete@gmail.com,,,Universidade do Algarve,Engenharia Informática,,0,0,['Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas'],,2009/09/01 16:48:13.091 GMT+1
+Cesar Rodrigues,cesar@di.uminho.pt,,,,,DI/UMinho,0,0,[],,2009/09/08 16:23:56.947 GMT+1
+Paula Novais,paula@di.uminho.pt,,,,,DI - Universidade do Minho,0,0,[],,2009/09/08 16:24:08.379 GMT+1
+Francisco Rodrigues,fr@di.uminho.pt,,,,,Departamento de Informática,0,0,['Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas'],,2009/09/08 17:43:57.098 GMT+1
+Hugo Miguel Silva Teixeira,hsmcost@net.sapo.pt,LEI,28241,,,,0,0,[],Procuro emprego,2009/09/08 21:24:08.457 GMT+1
+Vasconcelos Oliveira,v.oliveira@scert.com,,,,,"SUPERTICERT - Certificação Electrónica, SA",0,0,[],,2009/09/10 15:28:51.332 GMT+1
+João Filipe Pinto Ferreira, pintojoao@gmail.com,LCC,42410,,,,1,1,"['Procura 1\xc2\xba emprego', 'Procura projecto/disserta\xc3\xa7\xc3\xa3o de mestrado', 'Interesse pelas \xc3\xa1reas tem\xc3\xa1ticas']",,2009/09/10 17:34:22.134 GMT+1

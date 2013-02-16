@@ -1,0 +1,48 @@
+\documentclass[a4paper]{article}
+\usepackage[portuges]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{a4wide}
+\usepackage{datetime}
+
+\title{\Huge{Jornadas de Informática\\- Estatísticas das Inscrições -}}
+\author{Gerado automaticamente a partir do GHCi}
+\date{}
+
+\begin{document}
+\begin{figure}
+\includegraphics[scale=1]{logo}\\
+\footnotesize{\textbf{Universidade do Minho}\\
+Departamento de Informática}
+\end{figure}
+\maketitle
+
+\begin{abstract}
+Este artigo estastístico sobre as inscrições nas Jornadas de Informática organizadas na Universidade do Minho foi gerado automaticamente pelo GHCi a \today \ às \currenttime. \end{abstract}
+\section{Inscrições}
+Nesta edição das Jornadas de Informática da Universidade do Minho registaram-se na totalidade ¡ inscrições. Em termos de participação inscreveram-se um total de ¢ alunos da Universidade do Minho, £ aluno(s) de outras universidades e € representante(s) de empresas.\\ \\
+Em termos de Inscrições por parte de alunos da Universidade do Minho obteve-se a seguinte tabela: \\
+\begin{center}
+    \begin{tabular}{ | c | c |}
+    \hline
+    Cursos & Nº de inscritos \\    \hline
+    LEI & ¥ \\      \hline
+    LCC & Š \\     \hline
+    MI & § \\    \hline
+    MEI & š \\    \hline
+    MERSCOM & © \\    \hline
+    MBIO & ¬ \\
+    \hline
+    \end{tabular}
+\end{center}
+\subsection{Motivos de Inscrição}
+No que concerne à suscitação de interesse nas JOIN por parte dos participantes, foram obtidos os seguintes resultados através do inquérito na página de inscrição:
+\begin{itemize}
+  \item ° participante(s) revelou/revelaram interesse na procura do 1º emprego.
+  \item ± participante(s) revelou/revelaram interesse na procura de projectos/dissertações de mestrado.
+  \item ² participante(s) revelou/revelaram interesse nas áreas temáticas das Jornadas de Informática.
+\end{itemize}
+\subsection{Jantar de Gala e Almoços no Restaurante Panorâmico}
+Em relação ás inscrições para o Jantar de Gala comemorativo das Jornadas de Informática e aos almoçoes no Restaurante Panorâmico da Universidade do Minho, ³ participante(s) inscreveram-se no Jantar de Gala e µ participante(s) inscreveram-se nos Almoços.
+
+\end{document} 
